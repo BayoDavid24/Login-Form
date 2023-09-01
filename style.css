@@ -1,0 +1,22 @@
+h1{
+  padding:20px;
+  margin: auto;
+  width:200px;
+}
+
+p{
+  padding:10px;
+  margin: auto;
+  width:300px;
+}
+
+
+.container{
+  font-family:roboto;
+  width:200px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 9px;
+  
+}
